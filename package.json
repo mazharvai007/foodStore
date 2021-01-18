@@ -2,7 +2,7 @@
   "name": "foodStore",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
 	  "build-css": "tailwindcss build src/styles.css -o public/css/style.css"
   },
